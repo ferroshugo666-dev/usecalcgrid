@@ -1,0 +1,1 @@
+export default function Page(){ return <main style={{maxWidth:'800px', margin:'auto', padding:'20px'}}><h1>About UseCalcGrid</h1><p>We provide free construction cost calculators using 2025 USA national average data from HomeAdvisor, Angi, and contractor surveys.</p><a href='/'>Home</a></main> }

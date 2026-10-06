@@ -1,0 +1,1 @@
+export default function Page(){ return <main style={{maxWidth:'800px', margin:'auto', padding:'20px'}}><h1>Privacy Policy</h1><p>We use cookies for analytics and ads (AdSense). We do not collect personal data. Contact: contact@usecalcgrid.com</p><a href='/'>Home</a></main> }

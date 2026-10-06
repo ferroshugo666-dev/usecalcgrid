@@ -1,0 +1,22 @@
+﻿<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>UseCalcGrid</title>
+
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+
+  <rect x="108" y="108" width="296" height="296" rx="48"
+        stroke="#FFFFFF"
+        stroke-width="30"/>
+
+  <path d="M206 108V404M306 108V404M108 206H404M108 306H404"
+        stroke="#FFFFFF"
+        stroke-width="20"
+        stroke-linecap="round"/>
+
+  <path d="M174 164L230 220L174 276"
+        stroke="#22C55E"
+        stroke-width="30"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <circle cx="334" cy="344" r="25" fill="#22C55E"/>
+</svg>
